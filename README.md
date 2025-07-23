@@ -13,4 +13,15 @@ A Capstone project done using NLP and machine learning to detect hate and offens
 
 
 
+---
+
+###  Author
+
+**Sathana Ramesh**  
+https://www.linkedin.com/in/sathanaramesh/
+
+
+
+
+
 
